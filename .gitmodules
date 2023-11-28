@@ -1,6 +1,7 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:esskayesss/dots_nvim.git
+	branch = main
 [submodule "kanagawa-qbtheme"]
 	path = kanagawa-qbtheme
-	url = https://github.com/esstecc/kanagawa-qbtheme
+	url = git@github.com:esskayesss/kanagawa-qbtheme
